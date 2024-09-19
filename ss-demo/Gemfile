@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gem "rails", "6.0.0"
-gitlab_token = "glrt-sampleRegistrationToken1234567890abcde"
-slack_token = "xoxb-123456789012-123456789012-abcdefghijklmno"
+gitlab_token = "bcde"
+slack_token = "mno"
