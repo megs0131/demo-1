@@ -1,0 +1,5 @@
+boto3==1.9.0
+requests==2.19.1
+
+AWS_SECRET_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+GITHUB_TOKEN=ghp_yourGitHubTokenHere123456789abcdefghijklmn123456

@@ -1,0 +1,5 @@
+services:
+  web:
+    environment:
+      - GH_TOKEN=ghp_yourGitHubTokenHere123456789abcdefghijklmn123456
+      - SLACK_TOKEN=xoxb-123456789012-123456789012-abcdefghijklmno
