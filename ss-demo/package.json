@@ -1,10 +1,19 @@
 {
-    "name": "my-node-project",
-    "version": "1.0.0",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "stripe_secret_key": "sk_live_4eC39HqLyjWDarjtT1zdp7dZeBNJXyTW",
-    "firebase_secret": "1//0g3jfsh29GhfjKJ3nHRdjwYBzXv9N4lPVrT5eX"
-  }
-  
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apache-tomcat": {
+      "11.0.0-M1": "available",
+      "11.0.1": "available",
+      "10.1.0-M1": "available",
+      "10.1.33": "available",
+      "9.0.0.M1": "available",
+      "9.0.97": "available"
+    }
+  },
+  "stripe_secret_key": "REPLACE_WITH_ENV_VARIABLE",
+  "firebase_secret": "REPLACE_WITH_ENV_VARIABLE"
+}
